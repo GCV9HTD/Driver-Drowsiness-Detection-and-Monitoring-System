@@ -34,7 +34,7 @@ The work on this project is still ongoing and till far these versions have been 
 Currently we are trying to make the code more general and implementing SOS and location features with improvement in codebase neatness too.
 
 ## How to run?
-1. Navigate to `/public/js` folder and run python script using `python main.py`.
+1. Navigate to `/public/js` folder and run python script using `python yawn_detector.py`.
 2. Wait for script to start and then test it using closing eyes or yawning. Use keystroke `q` to close window and see this run analytics. 
 3. On closing it the database will be updated with newest values so we are ready to move to monitoring system.
 4. Navigate to project home directory and run `npm install` and then start server using `nodemon`.
