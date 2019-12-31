@@ -79,7 +79,7 @@ $button-background-color: #27AE60;
 }
 
 body { 
-  background-image: url("../images/truck.jpg") !important;
+  background-image: url("../images/truck.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -87,10 +87,6 @@ body {
    
   
   background-repeat:no-repeat;
-}
-
-.jumbotron{
-  opacity: 0.7;
 }
 
 
@@ -292,4 +288,9 @@ body, input, button {
 {
   margin-top: 10px;
   margin-left: 400px;
+}
+
+.jumbotron
+{
+  opacity: 0.7;
 }
