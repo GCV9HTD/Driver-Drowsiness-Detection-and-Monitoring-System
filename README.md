@@ -42,7 +42,7 @@ Currently we are trying to make the code more general and implementing SOS and l
 6. You will have access to monitoring system now and can use it to access data.
 
 ###### Note:
-- On non Windows System you need to edit main.py and change active thread count in alarm code from 2 to 1 and use `python3 main.py` instead.
+- On non Windows System you need to edit yawn_detector.py and change active thread count in alarm code from 2 to 1 and use `python3 yawn_detector.py` instead.
 - The Login ID and password of monitoring system are:`bitrebels` and `bit123`.
 
 ## Conclusion
